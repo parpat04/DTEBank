@@ -16,7 +16,7 @@
     justify-content: space-around;
     background-color: white;
     position: relative;
-    color: #fa5b3d;
+    color: #26a286;
     font-family: 'Montserrat', sans-serif;
     transition: .4s ease-in-out;
     overflow: hidden;
@@ -41,7 +41,7 @@
 
 .nav a {
     text-decoration: none;
-    color: #fa5b3d;
+    color: #26a286;
 }
 
 .nav ul {
@@ -100,7 +100,7 @@
     margin-top: 14rem;
     margin-right: 5rem;
     display: flex;
-    color: #fa5b3d;
+    color: #26a286;
     gap: 7rem;
     width: fit-content;
     height: 55vh;
@@ -115,14 +115,14 @@
 }
 
 .header h1 {
-    color: #fa5b3d;
+    color: #26a286;
     font-family: 'Montserrat', sans-serif;
     height: 10%;
     font-size: 2.5rem;
     margin-bottom: 2.5rem;
     overflow: hidden; /* Ensures the content is not revealed until the animation */
     overflow: hidden;/* Ensures the content is not revealed until the animation */
-        border-right: .17em solid #fa5b3d;/* The typewriter cursor */
+        border-right: .17em solid #26a286;/* The typewriter cursor */
         white-space: nowrap;/* Keeps the content on a single line */
         margin: 0 auto;/* Gives that scrolling effect as the typing happens */
         margin-right: 5.9rem;
@@ -137,7 +137,7 @@
 
 @keyframes blinking-cursor {
     from, to { border-color: transparent }
-    50% { border-color: #fa5b3d;}
+    50% { border-color: #26a286;}
 }
 
 .header img {
@@ -155,7 +155,7 @@
     font-size: 1.5rem;
     padding: .2rem .6rem;
     border-radius: .2rem;
-    background-color: #fa5b3d;
+    background-color: #26a286;
 
 }
 
@@ -205,7 +205,7 @@
     justify-content: space-around;
     background-color: white;
     position: relative;
-    color: #fa5b3d;
+    color: #26a286;
     font-family: 'Montserrat', sans-serif;
     overflow: hidden;
     z-index: 99;
@@ -229,7 +229,7 @@
 
 .mini a {
     text-decoration: none;
-    color: #fa5b3d;
+    color: #26a286;
 }
 
 .mini ul {
@@ -276,7 +276,7 @@
     height: .1rem;
     width: 10rem;
     position: relative;
-    background: #fa5b3d;
+    background: #26a286;
     margin-top: .3rem;
 }
 
@@ -388,7 +388,7 @@ html {
 
 .top-work li {
     margin: 2rem 0;
-    color:#fa5b3d
+    color:#26a286;
 }
 
 .top-work li span {
@@ -447,7 +447,7 @@ html {
 
 .contact-icons {
     color: #ffff;
-    background-color: #fa5b3d;
+    background-color: #26a286;
     padding: 1rem 1rem;
     border-radius: .8rem;
 }
@@ -487,17 +487,17 @@ html {
 
 input[type=name]:focus {
     transition: .2s ease-in-out;
-    border: 3px solid #fa5b3d;
+    border: 3px solid #26a286;
 }
 
 input[type=email]:focus {
     transition: .2s ease-in-out;
-    border: 3px solid #fa5b3d;
+    border: 3px solid #26a286;
 }
 
 input[type=subject]:focus {
     transition: .2s ease-in-out;
-    border: 3px solid #fa5b3d;
+    border: 3px solid #26a286;
 }
 
 input[type=name] {
@@ -536,7 +536,7 @@ input[type=submit] {
     outline: none;
     border: #5b5b5c;
     margin-left: 28rem;
-    background-color: #fa5b3d;
+    background-color: #26a286;
     color: #f4f4f4;
 }
 
@@ -550,7 +550,7 @@ input[type=submit] {
 
 .form-message:focus {
     transition: .2s ease-in-out;
-    border: 3px solid #fa5b3d;
+    border: 3px solid #26a286;
     outline: none;
 
 }
